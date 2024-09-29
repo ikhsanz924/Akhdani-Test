@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan user dapat mengakses halaman utama dan melihat elemen yang ada di dalamnya.</description>
+   <name>TC - 01 - User Mengakses Halaman Utama</name>
+   <tag>Common</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c8da611-68e2-4704-ab01-d057f762a837</testCaseGuid>
+</TestCaseEntity>

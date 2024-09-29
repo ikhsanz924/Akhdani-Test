@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan user dapat login kedalam website dengan user yang valid</description>
+   <name>TC - 02 - User Login Kedalam Website Dengan User Yang Valid</name>
+   <tag>Common</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03092bb6-6aaa-4b3a-a54f-2e5533a8d17e</testCaseGuid>
+</TestCaseEntity>

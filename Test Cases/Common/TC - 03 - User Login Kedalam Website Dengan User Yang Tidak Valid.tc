@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan user tidak dapat login dengan user yang tidak valid</description>
+   <name>TC - 03 - User Login Kedalam Website Dengan User Yang Tidak Valid</name>
+   <tag>Common</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74a9c24c-e9d7-4572-9e60-9ca49f77fa37</testCaseGuid>
+</TestCaseEntity>

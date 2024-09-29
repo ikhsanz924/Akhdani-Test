@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan user dapat melakukan signup</description>
+   <name>TC - 04 - User Melakukan Signup Kedalam Website</name>
+   <tag>Comon</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ced19c88-f258-4593-b79e-c32292a15b83</testCaseGuid>
+</TestCaseEntity>

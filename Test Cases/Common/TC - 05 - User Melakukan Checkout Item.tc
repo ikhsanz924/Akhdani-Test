@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan user dapat melakukan checkout item di dalam website</description>
+   <name>TC - 05 - User Melakukan Checkout Item</name>
+   <tag>Common</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87a89dda-655e-4fd4-887e-98f4fe5668a9</testCaseGuid>
+</TestCaseEntity>
